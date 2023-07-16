@@ -8,49 +8,49 @@
     <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-inner">
           <a href="desa/desaBandongan.html" class="carousel-item active">
-            <img src="{{ asset('storage\img\foto desa\desa bandongan.png') }}" class="d-block w-100" alt="..." />
+            <img src="{{ asset('img\foto desa\desa bandongan.png') }}" class="d-block w-100" alt="..." />
             <div class="carousel-caption d-none d-md-block">
               <h5 class="fs-1">Desa Bandongan</h5>
               <p>Some representative placeholder content for the first slide.</p>
             </div>
           </a>
           <div class="carousel-item">
-            <img src="{{ asset('storage\img\foto desa\desa sidorejo.png') }}" class="d-block w-100" alt="..." />
+            <img src="{{ asset('img\foto desa\desa sidorejo.png') }}" class="d-block w-100" alt="..." />
             <div class="carousel-caption d-none d-md-block">
               <h5 class="fs-1">Desa Sidorejo</h5>
               <p>Some representative placeholder content for the first slide.</p>
             </div>
           </div>
           <div class="carousel-item">
-            <img src="{{ asset('storage\img\foto desa\Desa Gandusari.png') }}" class="d-block w-100" alt="..." />
+            <img src="{{ asset('img\foto desa\Desa Gandusari.png') }}" class="d-block w-100" alt="..." />
             <div class="carousel-caption d-none d-md-block">
               <h5 class="fs-1">Desa Gandusari</h5>
               <p>Some representative placeholder content for the first slide.</p>
             </div>
           </div>
           <div class="carousel-item">
-            <img src="{{ asset('storage\img\foto desa\Desa Rejosari.png') }}" class="d-block w-100" alt="..." />
+            <img src="{{ asset('img\foto desa\Desa Rejosari.png') }}" class="d-block w-100" alt="..." />
             <div class="carousel-caption d-none d-md-block">
               <h5 class="fs-1">Desa Rejosari</h5>
               <p>Some representative placeholder content for the first slide.</p>
             </div>
           </div>
           <div class="carousel-item">
-            <img src="{{ asset('storage\img\foto desa\Desa Trasan.png') }}" class="d-block w-100" alt="..." />
+            <img src="{{ asset('img\foto desa\Desa Trasan.png') }}" class="d-block w-100" alt="..." />
             <div class="carousel-caption d-none d-md-block">
               <h5 class="fs-1">Desa Trasan</h5>
               <p>Some representative placeholder content for the first slide.</p>
             </div>
           </div>
           <a href="desa/desaNgepanrejo.html" class="carousel-item">
-            <img src="{{ asset('storage\img\foto desa\Desa Ngepanrejo.png') }}" class="d-block w-100" alt="..." />
+            <img src="{{ asset('img\foto desa\Desa Ngepanrejo.png') }}" class="d-block w-100" alt="..." />
             <div class="carousel-caption d-none d-md-block">
               <h5 class="fs-1">Desa Ngepanrejo</h5>
               <p>Some representative placeholder content for the first slide.</p>
             </div>
           </a>
           <div class="carousel-item">
-            <img src="{{ asset('storage\img\foto desa\Desa Kalegen.png') }}" class="d-block w-100" alt="..." />
+            <img src="{{ asset('img\foto desa\Desa Kalegen.png') }}" class="d-block w-100" alt="..." />
             <div class="carousel-caption d-none d-md-block">
               <h5 class="fs-1">Desa Kalegen</h5>
               <p>Some representative placeholder content for the first slide.</p>
@@ -151,7 +151,7 @@
         <div class="card mb-3 p-3" style="max-width: 100%">
           <div class="row g-0">
             <div class="col-md-3">
-              <img src="{{ asset('storage\img\wisata desa\wisata ngepanrejo\makam.png') }}" class="img-fluid rounded-start" alt="..." style="border-radius: 0.4rem" />
+              <img src="{{ asset('img\wisata desa\petani.jpg') }}" class="img-fluid rounded-start" alt="..." style="border-radius: 0.4rem" />
             </div>
             <div class="col-md-9">
               <div class="card-body">
@@ -168,7 +168,7 @@
         <div class="card mb-3 p-3" style="max-width: 100%">
           <div class="row g-0">
             <div class="col-md-3">
-              <img src="{{ asset('storage\img\wisata desa\wisata ngepanrejo\makam.png') }}" class="img-fluid rounded-start" alt="..." style="border-radius: 0.4rem" />
+              <img src="{{ asset('img\wisata desa\petani.jpg') }}" class="img-fluid rounded-start" alt="..." style="border-radius: 0.4rem" />
             </div>
             <div class="col-md-9">
               <div class="card-body">
@@ -185,7 +185,7 @@
         <div class="card mb-3 p-3" style="max-width: 100%">
           <div class="row g-0">
             <div class="col-md-3">
-              <img src="{{ asset('storage\img\wisata desa\wisata ngepanrejo\makam.png') }}" class="img-fluid rounded-start" alt="..." style="border-radius: 0.4rem" />
+              <img src="{{ asset('img\wisata desa\petani.jpg') }}" class="img-fluid rounded-start" alt="..." style="border-radius: 0.4rem" />
             </div>
             <div class="col-md-9">
               <div class="card-body">
@@ -202,7 +202,7 @@
         <div class="card mb-3 p-3" style="max-width: 100%">
           <div class="row g-0">
             <div class="col-md-3">
-              <img src="{{ asset('storage\img\wisata desa\wisata ngepanrejo\makam.png') }}" class="img-fluid rounded-start" alt="..." style="border-radius: 0.4rem" />
+              <img src="{{ asset('img\wisata desa\petani.jpg') }}" class="img-fluid rounded-start" alt="..." style="border-radius: 0.4rem" />
             </div>
             <div class="col-md-9">
               <div class="card-body">

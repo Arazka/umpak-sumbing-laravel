@@ -1,7 +1,7 @@
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
     <div class="container">
       <a class="navbar-brand d-flex align-item-center" href="#">
-        <img src="{{ asset('storage/img/logo/logo.png') }}" alt="Logo" width="60" height="60" class="d-inline-block align-text-top" style="border-radius: 1rem 0 1rem 0" />
+        <img src="{{ asset('img/logo/logo.png') }}" alt="Logo" width="60" height="60" class="d-inline-block align-text-top" style="border-radius: 1rem 0 1rem 0" />
         <!-- <h6 class="my-auto mx-2">Umpak Sumbing</h6> -->
         <div class="title mx-2 mx-md-3">
           <div class="bandongan-1">Umpak Sumbing</div>
@@ -13,7 +13,7 @@
       </button>
       <div class="offcanvas offcanvas-end text-bg-dark" tabindex="-1" id="offcanvasDarkNavbar" aria-labelledby="offcanvasDarkNavbarLabel">
         <div class="offcanvas-header">
-          <img src="{{ asset('storage/img/logo/logo.png') }}" alt="Logo" width="40" height="40" class="d-inline-block align-text-top" style="border-radius: 1rem 0 1rem 0" />
+          <img src="{{ asset('img/logo/logo.png') }}" alt="Logo" width="40" height="40" class="d-inline-block align-text-top" style="border-radius: 1rem 0 1rem 0" />
           <h6 class="offcanvas-title" id="offcanvasDarkNavbarLabel">Umpak Sumbing</h6>
           <button type="button" class="btn-close btn-close-white" data-bs-dismiss="offcanvas" aria-label="Close"></button>
         </div>
