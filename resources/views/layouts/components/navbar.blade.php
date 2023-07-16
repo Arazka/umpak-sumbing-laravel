@@ -34,10 +34,10 @@
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false"> BKAD </a>
               <ul class="dropdown-menu dropdown-menu-dark">
-                <li><a class="dropdown-item" href="#">Profil Lembaga</a></li>
-                <li><a class="dropdown-item" href="#">Struktur Organisasi</a></li>
-                <li><a class="dropdown-item" href="#">Perencanaan</a></li>
-                <li><a class="dropdown-item" href="#">RPKP</a></li>
+                <li><a class="dropdown-item" href="{{ url('/bkad/profil-lembaga') }}">Profil Lembaga</a></li>
+                <li><a class="dropdown-item" href="{{ url('/bkad/struktur-organisasi') }}">Struktur Organisasi</a></li>
+                <li><a class="dropdown-item" href="{{ url('/bkad/program-kerja') }}">Program Kerja</a></li>
+                <li><a class="dropdown-item" href="{{ url('/bkad/rencana-pembangunan-kawasan-pedesaan') }}">RPKP</a></li>
               </ul>
             </li>
             <li class="nav-item dropdown">
