@@ -151,7 +151,7 @@
         <div class="card mb-3 p-3" style="max-width: 100%">
           <div class="row g-0">
             <div class="col-md-3">
-              <img src="{{ asset('storage\img\wisata desa\petani.jpg') }}" class="img-fluid rounded-start" alt="..." style="border-radius: 0.4rem" />
+              <img src="{{ asset('storage\img\wisata desa\wisata ngepanrejo\makam.png') }}" class="img-fluid rounded-start" alt="..." style="border-radius: 0.4rem" />
             </div>
             <div class="col-md-9">
               <div class="card-body">
@@ -168,7 +168,7 @@
         <div class="card mb-3 p-3" style="max-width: 100%">
           <div class="row g-0">
             <div class="col-md-3">
-              <img src="{{ asset('storage\img\wisata desa\petani.jpg') }}" class="img-fluid rounded-start" alt="..." style="border-radius: 0.4rem" />
+              <img src="{{ asset('storage\img\wisata desa\wisata ngepanrejo\makam.png') }}" class="img-fluid rounded-start" alt="..." style="border-radius: 0.4rem" />
             </div>
             <div class="col-md-9">
               <div class="card-body">
@@ -185,7 +185,7 @@
         <div class="card mb-3 p-3" style="max-width: 100%">
           <div class="row g-0">
             <div class="col-md-3">
-              <img src="{{ asset('storage\img\wisata desa\petani.jpg') }}" class="img-fluid rounded-start" alt="..." style="border-radius: 0.4rem" />
+              <img src="{{ asset('storage\img\wisata desa\wisata ngepanrejo\makam.png') }}" class="img-fluid rounded-start" alt="..." style="border-radius: 0.4rem" />
             </div>
             <div class="col-md-9">
               <div class="card-body">
@@ -202,7 +202,7 @@
         <div class="card mb-3 p-3" style="max-width: 100%">
           <div class="row g-0">
             <div class="col-md-3">
-              <img src="{{ asset('storage\img\wisata desa\petani.jpg') }}" class="img-fluid rounded-start" alt="..." style="border-radius: 0.4rem" />
+              <img src="{{ asset('storage\img\wisata desa\wisata ngepanrejo\makam.png') }}" class="img-fluid rounded-start" alt="..." style="border-radius: 0.4rem" />
             </div>
             <div class="col-md-9">
               <div class="card-body">
