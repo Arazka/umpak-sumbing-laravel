@@ -119,6 +119,7 @@
 
     <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
     <h3 class="text-center">Pariwisata Unggulan</h3>
+    <br class="md-3">
         <div class="carousel-inner" style="height: 20rem;">
             <a href="desa/desaBandongan.html" class="carousel-item active">
                 <img src="{{ asset('img\foto desa\desa bandongan.png') }}" class="d-block w-100" style="object-fit: cover;" alt="..." />
