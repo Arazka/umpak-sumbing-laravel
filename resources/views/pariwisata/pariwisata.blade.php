@@ -22,7 +22,7 @@
     <div class="d-flex tab-content align-items-center justify-content-center" id="nav-tabContent">
         <div class="tab-pane fade show active " id="desa-bandongan" role="tabpanel" aria-labelledby="desa-bandongan-tab" tabindex="0">
             <div class="card projects-img">
-                <a href="{{ url('/desa/desa-bondowoso') }}">
+                <a href="{{ url('/desa/desa-bandongan') }}">
                     <img src="img/desa_geo_map/desa_bandongan.png" class="card-img-top" alt="projects1" style="height:25rem; object-fit:cover;" />
                 </a>
                 <div class="card-body align-items-center justify-content-center">

@@ -24,4 +24,4 @@ Route::get('/bkad/rencana-pembangunan-kawasan-pedesaan', function () {return vie
 // end route fitur
 
 // detail desa
-Route::get('/desa/desa-bondowoso', function () {return view('desa/desa_bondowoso');});
+Route::get('/desa/desa-bandongan', function () {return view('desa/desa_bandongan');});
