@@ -13,11 +13,15 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+// route fitur
 Route::get('/', function () {return view('welcome');});
 Route::get('/umpak-sumbing', function () {return view('welcome');});
 Route::get('/pariwisata', function () {return view('pariwisata/pariwisata');});
-
 Route::get('/bkad/profil-lembaga', function () {return view('bkad/profilLembaga');});
 Route::get('/bkad/struktur-organisasi', function () {return view('bkad/strukturOrganisasi');});
 Route::get('/bkad/program-kerja', function () {return view('bkad/programKerja');});
 Route::get('/bkad/rencana-pembangunan-kawasan-pedesaan', function () {return view('bkad/rpkp');});
+// end route fitur
+
+// detail desa
+Route::get('/desa/desa-bondowoso', function () {return view('desa/desa_bondowoso');});
