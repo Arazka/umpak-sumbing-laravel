@@ -14,7 +14,7 @@
         <h2 class="fw-bolder">Rencana Pembangunan Kawasan Pedesaan</h2>
         <div class="card my-4 p-2" style="width: 100%; border-radius: 1rem">
           <div class="card-body">
-            <h4 class="card-title text-success fw-bolder mb-3">Uraian Perencanaan BKAD (mungkin dalam bentuk file excel)</h4>
+            <h4 class="card-title text-danger fw-bolder mb-3">Uraian Perencanaan BKAD (mungkin dalam bentuk file excel)</h4>
             <p class="card-text">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit amet eum velit quia? Illo, fuga modi. Qui voluptatum aliquam, cum ducimus earum praesentium, eius perspiciatis voluptatibus vero autem odio natus quos consectetur
               ab iste ullam, vitae obcaecati consequuntur? Temporibus voluptas nemo totam sint deserunt voluptatibus culpa unde molestiae blanditiis perferendis veniam consectetur nobis qui, ex odio porro. Omnis soluta ipsa libero sit natus

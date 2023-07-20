@@ -14,7 +14,7 @@
     <h2 class="fw-bolder">Struktur Organisasi BKAD</h2>
     <div class="card my-4 p-2" style="width: 100%; border-radius: 1rem">
       <div class="card-body">
-        <h4 class="card-title text-success fw-bolder mb-4">Bagan Struktur Organisasi</h4>
+        <h4 class="card-title text-danger fw-bolder mb-4">Bagan Struktur Organisasi</h4>
         <img src="{{ asset('img\wisata desa\petani.jpg') }}" class="img-fluid" alt="..." style="border-radius: 1rem" />
       </div>
     </div>
