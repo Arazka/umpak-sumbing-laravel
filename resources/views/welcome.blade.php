@@ -8,49 +8,49 @@
     <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-inner">
           <a href="desa/desaBandongan.html" class="carousel-item active">
-            <img src="{{ asset('img\foto desa\desa bandongan.png') }}" class="d-block w-100" alt="..." />
+            <img src="{{ asset('img\foto desa\desa bandongan.jpg') }}" class="d-block w-100" alt="..." />
             <div class="carousel-caption d-none d-md-block">
               <h5 class="fs-1">Desa Bandongan</h5>
               <p>Some representative placeholder content for the first slide.</p>
             </div>
           </a>
           <div class="carousel-item">
-            <img src="{{ asset('img\foto desa\desa sidorejo.png') }}" class="d-block w-100" alt="..." />
+            <img src="{{ asset('img\foto desa\desa sidorejo.jpg') }}" class="d-block w-100" alt="..." />
             <div class="carousel-caption d-none d-md-block">
               <h5 class="fs-1">Desa Sidorejo</h5>
               <p>Some representative placeholder content for the first slide.</p>
             </div>
           </div>
           <div class="carousel-item">
-            <img src="{{ asset('img\foto desa\Desa Gandusari.png') }}" class="d-block w-100" alt="..." />
+            <img src="{{ asset('img\foto desa\desa gandusari.jpg') }}" class="d-block w-100" alt="..." />
             <div class="carousel-caption d-none d-md-block">
               <h5 class="fs-1">Desa Gandusari</h5>
               <p>Some representative placeholder content for the first slide.</p>
             </div>
           </div>
           <div class="carousel-item">
-            <img src="{{ asset('img\foto desa\Desa Rejosari.png') }}" class="d-block w-100" alt="..." />
+            <img src="{{ asset('img\foto desa\desa rejosari.jpg') }}" class="d-block w-100" alt="..." />
             <div class="carousel-caption d-none d-md-block">
               <h5 class="fs-1">Desa Rejosari</h5>
               <p>Some representative placeholder content for the first slide.</p>
             </div>
           </div>
           <div class="carousel-item">
-            <img src="{{ asset('img\foto desa\Desa Trasan.png') }}" class="d-block w-100" alt="..." />
+            <img src="{{ asset('img\foto desa\desa trasan.jpg') }}" class="d-block w-100" alt="..." />
             <div class="carousel-caption d-none d-md-block">
               <h5 class="fs-1">Desa Trasan</h5>
               <p>Some representative placeholder content for the first slide.</p>
             </div>
           </div>
           <a href="desa/desaNgepanrejo.html" class="carousel-item">
-            <img src="{{ asset('img\foto desa\Desa Ngepanrejo.png') }}" class="d-block w-100" alt="..." />
+            <img src="{{ asset('img\foto desa\desa ngepanrejo.jpg') }}" class="d-block w-100" alt="..." />
             <div class="carousel-caption d-none d-md-block">
               <h5 class="fs-1">Desa Ngepanrejo</h5>
               <p>Some representative placeholder content for the first slide.</p>
             </div>
           </a>
           <div class="carousel-item">
-            <img src="{{ asset('img\foto desa\Desa Kalegen.png') }}" class="d-block w-100" alt="..." />
+            <img src="{{ asset('img\foto desa\desa kalegen.jpg') }}" class="d-block w-100" alt="..." />
             <div class="carousel-caption d-none d-md-block">
               <h5 class="fs-1">Desa Kalegen</h5>
               <p>Some representative placeholder content for the first slide.</p>

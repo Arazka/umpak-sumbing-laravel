@@ -123,74 +123,6 @@
     </div>
 </div>
 
-{{-- CAROUSEL --}}
-{{-- <section id="top_pariwisata">
-    <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
-    <h3 class="text-center">Pariwisata Unggulan</h3>
-    <br class="md-3">
-        <div class="carousel-inner" >
-            <a href="desa/desaBandongan.html" class="carousel-item active">
-                <img src="{{ asset('img\foto desa\desa bandongan.png') }}" class="d-block w-100" style="object-fit: cover;" alt="..." />
-                <div class="carousel-caption">
-                    <h5 class="fs-1">Desa Bandongan</h5>
-                    <p>Some representative placeholder content for the first slide.</p>
-                </div>
-            </a>
-            <div class="carousel-item">
-                <img src="{{ asset('img\foto desa\desa sidorejo.png') }}" class="d-block w-100" alt="..." />
-                <div class="carousel-caption d-none d-md-block">
-                    <h5 class="fs-1">Desa Sidorejo</h5>
-                    <p>Some representative placeholder content for the first slide.</p>
-                </div>
-            </div>
-            <div class="carousel-item">
-                <img src="{{ asset('img\foto desa\Desa Gandusari.png') }}" class="d-block w-100" alt="..." />
-                <div class="carousel-caption d-none d-md-block">
-                    <h5 class="fs-1">Desa Gandusari</h5>
-                    <p>Some representative placeholder content for the first slide.</p>
-                </div>
-            </div>
-            <div class="carousel-item">
-                <img src="{{ asset('img\foto desa\Desa Rejosari.png') }}" class="d-block w-100" alt="..." />
-                <div class="carousel-caption d-none d-md-block">
-                    <h5 class="fs-1">Desa Rejosari</h5>
-                    <p>Some representative placeholder content for the first slide.</p>
-                </div>
-            </div>
-            <div class="carousel-item">
-                <img src="{{ asset('img\foto desa\Desa Trasan.png') }}" class="d-block w-100" alt="..." />
-                <div class="carousel-caption d-none d-md-block">
-                    <h5 class="fs-1">Desa Trasan</h5>
-                    <p>Some representative placeholder content for the first slide.</p>
-                </div>
-            </div>
-            <a href="desa/desaNgepanrejo.html" class="carousel-item">
-                <img src="{{ asset('img\foto desa\Desa Ngepanrejo.png') }}" class="d-block w-100" alt="..." />
-                <div class="carousel-caption d-none d-md-block">
-                    <h5 class="fs-1">Desa Ngepanrejo</h5>
-                    <p>Some representative placeholder content for the first slide.</p>
-                </div>
-            </a>
-            <div class="carousel-item">
-                <img src="{{ asset('img\foto desa\Desa Kalegen.png') }}" class="d-block w-100" alt="..." />
-                <div class="carousel-caption d-none d-md-block">
-                    <h5 class="fs-1">Desa Kalegen</h5>
-                    <p>Some representative placeholder content for the first slide.</p>
-                </div>
-            </div>
-        </div>
-        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
-            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span class="visually-hidden">Previous</span>
-        </button>
-        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="next">
-            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-            <span class="visually-hidden">Next</span>
-        </button>
-    </div>
-</section> --}}
-{{-- END CAROUSEL --}}
-
 <!-- PARIWISATA UNGGULAN -->
 <section id="desa">
     <div class="container mt-5">
@@ -198,61 +130,61 @@
         {{-- <h5 class="text-center mb-4">Pariwisata Unggulan</h5> --}}
         <div class="row justify-content-left">
             <div class="col-md-4 mb-4">
-                <div class="card text-bg-dark">
-                    <img src="{{ asset('img/foto desa/desa bandongan.png') }}" class="card-img" alt="...">
+                <div class="card text-bg-dark h-100">
+                    <img src="{{ asset('img/foto desa/desa bandongan.jpg') }}" class="card-img h-100" alt="...">
                     <div class="card-img-overlay">
                       <h5 class="card-title">Desa Bandongan</h5>
                     </div>
                   </div>
             </div>
             <div class="col-md-4 mb-4">
-                <div class="card text-bg-dark">
-                    <img src="{{ asset('img/foto desa/Desa Sidorejo.png') }}" class="card-img" alt="...">
+                <div class="card text-bg-dark h-100" >
+                    <img src="{{ asset('img/foto desa/desa sidorejo.jpg') }}" class="card-img h-100" alt="..." >
                     <div class="card-img-overlay">
                       <h5 class="card-title">Desa Sidorejo</h5>
                     </div>
                   </div>
             </div>
             <div class="col-md-4 mb-4">
-                <div class="card text-bg-dark">
-                    <img src="{{ asset('img/foto desa/Desa Rejosari.png') }}" class="card-img" alt="...">
+                <div class="card text-bg-dark h-100" >
+                    <img src="{{ asset('img/foto desa/desa rejosari.jpg') }}" class="card-img h-100" alt="..." >
                     <div class="card-img-overlay">
                       <h5 class="card-title">Desa Rejosari</h5>
                     </div>
                   </div>
             </div>
             <div class="col-md-4 mb-4">
-                <div class="card text-bg-dark">
-                    <img src="{{ asset('img/foto desa/Desa Trasan.png') }}" class="card-img" alt="...">
+                <div class="card text-bg-dark h-100" >
+                    <img src="{{ asset('img/foto desa/desa trasan.jpg') }}" class="card-img h-100" alt="..." >
                     <div class="card-img-overlay">
                       <h5 class="card-title">Desa Trasan</h5>
                     </div>
                   </div>
             </div>
             <div class="col-md-4 mb-4">
-                <div class="card text-bg-dark">
-                    <img src="{{ asset('img/foto desa/Desa Kalegen.png') }}" class="card-img" alt="...">
+                <div class="card text-bg-dark h-100" >
+                    <img src="{{ asset('img/foto desa/desa kalegen.jpg') }}" class="card-img h-100" alt="..." >
                     <div class="card-img-overlay">
                       <h5 class="card-title">Desa Kalegen</h5>
                     </div>
                 </div>
             </div>
             <div class="col-md-4 mb-4">
-                <div class="card text-bg-dark">
-                    <img src="{{ asset('img/foto desa/Desa Gandusari.png') }}" class="card-img" alt="...">
+                <div class="card text-bg-dark h-100" >
+                    <img src="{{ asset('img/foto desa/desa gandusari.jpg') }}" class="card-img h-100" alt="..." > 
                     <div class="card-img-overlay">
                       <h5 class="card-title">Desa Gandusari</h5>
                     </div>
                   </div>
                 </div>
-            <div class="col-md-4 mb-4">
-                <div class="card text-bg-dark">
-                    <img src="{{ asset('img/foto desa/Desa Ngepanrejo.png') }}" class="card-img" alt="...">
+            {{-- <div class="col-md-4 mb-4">
+                <div class="card text-bg-dark h-100" >
+                    <img src="{{ asset('img/foto desa/desa ngepanrejo.jpg') }}" class="card-img h-100" alt="..." >
                     <div class="card-img-overlay">
                       <h5 class="card-title">Desa Ngepanrejo</h5>
                     </div>
                   </div>
-            </div>
+            </div> --}}
 
             {{-- sdsfdsf --}}
             {{-- <div class="col-md-4 mb-4">
@@ -315,6 +247,14 @@
                     </div>
                 </div>
             </div> --}}
+        </div>
+        <div class="col">
+            <div class="card text-bg-dark h-25 d-inline-block" >
+                <img src="{{ asset('img/foto desa/desa ngepanrejo.jpg') }}" class="card-img h-100" alt="..." >
+                <div class="card-img-overlay">
+                  <h5 class="card-title">Desa Ngepanrejo</h5>
+                </div>
+              </div>
         </div>
     </div>
 </section>
