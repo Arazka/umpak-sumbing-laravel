@@ -43,9 +43,10 @@
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false"> BUMDESMA </a>
               <ul class="dropdown-menu dropdown-menu-dark">
-                <li><a class="dropdown-item" href="#">Action</a></li>
-                <li><a class="dropdown-item" href="#">Another action</a></li>
-                <li><a class="dropdown-item" href="#">Something else here</a></li>
+                <li><a class="dropdown-item" href="{{ url('/bumdesma/profil-lembaga') }}">Profil Lembaga</a></li>
+                <li><a class="dropdown-item" href="{{ url('/bumdesma/struktur-organisasi') }}">Struktur Organisasi</a></li>
+                <li><a class="dropdown-item" href="{{ url('/bumdesma/program-kerja') }}">Program Kerja</a></li>
+                <li><a class="dropdown-item" href="{{ url('/bumdesma/rencana-pembangunan-kawasan-pedesaan') }}">Regulasi</a></li>
               </ul>
             </li>
           </ul>

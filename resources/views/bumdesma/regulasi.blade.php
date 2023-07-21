@@ -8,7 +8,7 @@
           <ol class="breadcrumb">
             <li class="breadcrumb-item"><a href="{{ url('/') }}">Beranda</a></li>
             <li class="breadcrumb-item active" aria-current="page">BUMDESMA</li>
-            <li class="breadcrumb-item active" aria-current="page">RPKP</li>
+            <li class="breadcrumb-item active" aria-current="page">Regulasi</li>
           </ol>
         </nav>
         <h2 class="fw-bolder">Rencana Pembangunan Kawasan Pedesaan</h2>
