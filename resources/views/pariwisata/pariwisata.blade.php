@@ -33,7 +33,6 @@
                     </div>
                 </div>
             </div>
-            <h1>sdjksk</h1>
         </div>
         <div class="tab-pane fade align-items-center justify-content-center" id="desa-gandusari" role="tabpanel" aria-labelledby="desa-gandusari-tab" tabindex="0">
             <div class="card projects-img">

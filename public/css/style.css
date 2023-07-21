@@ -49,7 +49,13 @@
 /* .footer h5 {
   text-decoration: underline;
 } */
-
+/*======= desa post start ======== */
+.post-banner-image {
+    height: 25rem;
+    object-fit:cover;
+    width: 100%;
+}
+/*======= desa post end ======== */
 /*======= profil ======== */
 /*======= sejarah ======== */
 .container-header {
