@@ -6,7 +6,7 @@
   <!-- Full-width picture -->
   <div class="row">
     <div class="col-12 p-0">
-      <img src="{{ asset('img\foto desa\desa bandongan.jpg') }}" class="post-banner-image" alt="Full-width Picture">
+      <img src="{{ asset('img\foto desa\desa ngepanrejo.jpg') }}" class="post-banner-image" alt="Full-width Picture">
     </div>
   </div>
 
@@ -31,7 +31,7 @@
           <h2 class="text-left">Destinasi Wisata Unggulan</h2>
           <hr>
           <section>
-            <img src="{{ asset('img\foto desa\desa bandongan.jpg') }}" class="img-fluid my-3 w-100" alt="Blog Image" style="height: 20rem; object-fit: cover;">
+            <img src="{{ asset('img\foto desa\desa ngepanrejo.jpg') }}" class="img-fluid my-3 w-100" alt="Blog Image" style="height: 20rem; object-fit: cover;">
             <h3 class="text-left">Kesenian Jathilan</h3>
             <p>
               Aliquam euismod quam vitae aliquet semper. Ut sed nibh aliquam, efficitur sapien ut, lacinia quam. In
