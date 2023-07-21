@@ -31,3 +31,9 @@ Route::get('/bumdesma/rencana-pembangunan-kawasan-pedesaan', function () {return
 
 // detail desa
 Route::get('/desa/desa-bandongan', function () {return view('desa/desa_bandongan');});
+Route::get('/desa/desa-gandusari', function () {return view('desa/desa_gandusari');});
+Route::get('/desa/desa-kalegen', function () {return view('desa/desa_kalegen');});
+Route::get('/desa/desa-ngepanrejo', function () {return view('desa/desa_ngepanrejo');});
+Route::get('/desa/desa-rejosari', function () {return view('desa/desa_rejosari');});
+Route::get('/desa/desa-sidorejo', function () {return view('desa/desa_sidorejo');});
+Route::get('/desa/desa-trasan', function () {return view('desa/desa_trasan');});

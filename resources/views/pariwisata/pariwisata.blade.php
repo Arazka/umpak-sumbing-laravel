@@ -28,94 +28,94 @@
                 <div class="card-body align-items-center justify-content-center">
                     <h5 class="card-title text-center">Desa Bandongan</h5>
                     <p class="card-text text-center">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                    <div class="text-center"> <!-- Add text-center class here -->
+                    <!-- <div class="text-center"> 
                         {{-- <a href="#" class="btn btn-primary">Baca selengkapnya</a> --}}
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
         <div class="tab-pane fade align-items-center justify-content-center" id="desa-gandusari" role="tabpanel" aria-labelledby="desa-gandusari-tab" tabindex="0">
             <div class="card projects-img">
-                <a href="your-page-url">
+                <a href="{{ url('/desa/desa-gandusari') }}">
                     <img src="img/desa_geo_map/desa_gandusari.png" class="card-img-top" alt="projects1" style="height:25rem; object-fit: cover;" />
                 </a>
                 <div class="card-body align-items-center justify-content-center">
                     <h5 class="card-title text-center">Desa Gandusari</h5>
                     <p class="card-text text-center">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                    <div class="text-center"> <!-- Add text-center class here -->
-                        <a href="#" class="btn btn-primary">Baca selengkapnya</a>
-                    </div>
+                    <!-- <div class="text-center"> 
+                        {{-- <a href="#" class="btn btn-primary">Baca selengkapnya</a> --}}
+                    </div> -->
                 </div>
             </div>
 
         </div>
         <div class="tab-pane fade" id="desa-kalegen" role="tabpanel" aria-labelledby="desa-kalegen-tab" tabindex="0">
             <div class="card projects-img">
-                <a href="your-page-url">
+                <a href="{{ url('/desa/desa-kalegen') }}">
                     <img src="img/desa_geo_map/desa_kalegen.png" class="card-img-top" alt="projects1" style="height:25rem; object-fit:cover;" />
                 </a>
                 <div class="card-body align-items-center justify-content-center">
                     <h5 class="card-title text-center">Desa Kalegen</h5>
                     <p class="card-text text-center">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                    <div class="text-center"> <!-- Add text-center class here -->
-                        <a href="#" class="btn btn-primary">Baca selengkapnya</a>
-                    </div>
+                    <!-- <div class="text-center"> 
+                        {{-- <a href="#" class="btn btn-primary">Baca selengkapnya</a> --}}
+                    </div> -->
                 </div>
             </div>
         </div>
         <div class="tab-pane fade" id="desa-ngepanrejo" role="tabpanel" aria-labelledby="desa-ngepanrejo-tab" tabindex="0">
             <div class="card projects-img">
-                <a href="your-page-url">
+                <a href="{{ url('/desa/desa-ngepanrejo') }}">
                     <img src="img/desa_geo_map/desa_kalegen.png" class="card-img-top" alt="projects1" style="height:25rem; object-fit:cover;" />
                 </a>
                 <div class="card-body align-items-center justify-content-center">
                     <h5 class="card-title text-center">Desa Ngepanrejo</h5>
                     <p class="card-text text-center">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                    <div class="text-center"> <!-- Add text-center class here -->
-                        <a href="#" class="btn btn-primary">Baca selengkapnya</a>
-                    </div>
+                    <!-- <div class="text-center"> 
+                        {{-- <a href="#" class="btn btn-primary">Baca selengkapnya</a> --}}
+                    </div> -->
                 </div>
             </div>
         </div>
         <div class="tab-pane fade" id="desa-rejosari" role="tabpanel" aria-labelledby="desa-rejosari-tab" tabindex="0">
             <div class="card projects-img">
-                <a href="your-page-url">
+                <a href="{{ url('/desa/desa-rejosari') }}">
                     <img src="img/desa_geo_map/desa_rejosari.png" class="card-img-top" alt="projects1" style="height:25rem; object-fit:cover;" />
                 </a>
                 <div class="card-body align-items-center justify-content-center">
                     <h5 class="card-title text-center">Desa Rejosari</h5>
                     <p class="card-text text-center">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                    <div class="text-center"> <!-- Add text-center class here -->
-                        <a href="#" class="btn btn-primary">Baca selengkapnya</a>
-                    </div>
+                    <!-- <div class="text-center"> 
+                        {{-- <a href="#" class="btn btn-primary">Baca selengkapnya</a> --}}
+                    </div> -->
                 </div>
             </div>
         </div>
         <div class="tab-pane fade" id="desa-sidorejo" role="tabpanel" aria-labelledby="desa-sidorejo-tab" tabindex="0">
             <div class="card projects-img">
-                <a href="your-page-url">
+                <a href="{{ url('/desa/desa-sidorejo') }}">
                     <img src="img/desa_geo_map/desa_sidorejo.png" class="card-img-top" alt="projects1" style="height:25rem; object-fit:cover;" />
                 </a>
                 <div class="card-body align-items-center justify-content-center">
                     <h5 class="card-title text-center">Desa Sidorejo</h5>
                     <p class="card-text text-center">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                    <div class="text-center"> <!-- Add text-center class here -->
-                        <a href="#" class="btn btn-primary">Baca selengkapnya</a>
-                    </div>
+                    <!-- <div class="text-center"> 
+                        {{-- <a href="#" class="btn btn-primary">Baca selengkapnya</a> --}}
+                    </div> -->
                 </div>
             </div>
         </div>
         <div class="tab-pane fade" id="desa-trasan" role="tabpanel" aria-labelledby="desa-trasan-tab" tabindex="0">
             <div class="card projects-img">
-                <a href="your-page-url">
+                <a href="{{ url('/desa/desa-trasan') }}">
                     <img src="img/desa_geo_map/desa_trasan.png" class="card-img-top" alt="projects1" style="height:25rem; object-fit:cover;" />
                 </a>
                 <div class="card-body align-items-center justify-content-center">
                     <h5 class="card-title text-center">Desa Trasan</h5>
                     <p class="card-text text-center">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                    <div class="text-center"> <!-- Add text-center class here -->
-                        <a href="#" class="btn btn-primary">Baca selengkapnya</a>
-                    </div>
+                    <!-- <div class="text-center"> 
+                        {{-- <a href="#" class="btn btn-primary">Baca selengkapnya</a> --}}
+                    </div> -->
                 </div>
             </div>
         </div>
