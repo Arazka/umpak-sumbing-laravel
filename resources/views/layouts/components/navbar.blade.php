@@ -25,12 +25,18 @@
             <li class="nav-item">
               <a class="nav-link fs-6" href="{{ url('/pariwisata') }}">Pariwisata</a>
             </li>
-            {{-- <li class="nav-item">
+            <li class="nav-item">
+              <a class="nav-link fs-6" href="{{ url('/produk-unggulan') }}">Produk Unggulan</a>
+            </li>
+            <!-- {{-- <li class="nav-item">
               <a class="nav-link fs-6" href="halaman/bkad.html">BKAD</a>
             </li>
             <li class="nav-item">
               <a class="nav-link fs-6" href="halaman/bumdesma.html">BUMDESMA</a>
-            </li> --}}
+            </li> 
+            <li class="nav-item">
+              <a class="nav-link fs-6" href="halaman/regulasi.html">Regulasi</a>
+            </li> --}} -->
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false"> BKAD </a>
               <ul class="dropdown-menu dropdown-menu-dark">
@@ -46,7 +52,15 @@
                 <li><a class="dropdown-item" href="{{ url('/bumdesma/profil-lembaga') }}">Profil Lembaga</a></li>
                 <li><a class="dropdown-item" href="{{ url('/bumdesma/struktur-organisasi') }}">Struktur Organisasi</a></li>
                 <li><a class="dropdown-item" href="{{ url('/bumdesma/program-kerja') }}">Program Kerja</a></li>
-                <li><a class="dropdown-item" href="{{ url('/bumdesma/rencana-pembangunan-kawasan-pedesaan') }}">Regulasi</a></li>
+              </ul>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false"> Regulasi </a>
+              <ul class="dropdown-menu dropdown-menu-dark">
+                <li><a class="dropdown-item" href="{{ url('/regulasi') }}">Regulasi 1</a></li>
+                <li><a class="dropdown-item" href="{{ url('/regulasi') }}">Regulasi 2</a></li>
+                <li><a class="dropdown-item" href="{{ url('/regulasi') }}">Regulasi 3</a></li>
+                <li><a class="dropdown-item" href="{{ url('/regulasi') }}">Regulasi 4</a></li>
               </ul>
             </li>
           </ul>
