@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="{{ asset('ccc/pariwisata.css') }}" />
     <link rel="icon" href="{{ asset('img/logo/logo.png') }}" type="image/x-icon">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" />
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA-_vM9GsZ1aIl7X2d8o37Y4vuetGye030&callback=initMap" async defer></script>
   </head>
   <body class="bg-light">
     @include('layouts.components.navbar')

@@ -30,6 +30,8 @@ Route::get('/bumdesma/program-kerja', function () {return view('bumdesma/program
 Route::get('/bumdesma/regulasi', function () {return view('bumdesma/regulasi');});
 // regulasi
 Route::get('/regulasi', function () {return view('regulasi/regulasi');});
+// map experimental
+Route::get('/experimental', function () {return view('map-experimental/map');});
 
 
 // detail desa
