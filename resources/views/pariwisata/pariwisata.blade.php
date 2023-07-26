@@ -2,7 +2,7 @@
 
 @section('main')
 <div class="container container-header">
-    <nav aria-label="breadcrumb">
+    <!-- <nav aria-label="breadcrumb">
         <ol class="breadcrumb">
           <li class="breadcrumb-item"><a href="{{ url('/') }}">Beranda</a></li>
           <li class="breadcrumb-item active" aria-current="page">Pariwisata</li>
@@ -28,9 +28,6 @@
                 <div class="card-body align-items-center justify-content-center">
                     <h5 class="card-title text-center">Desa Bandongan</h5>
                     <p class="card-text text-center">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                    <!-- <div class="text-center"> 
-                        {{-- <a href="#" class="btn btn-primary">Baca selengkapnya</a> --}}
-                    </div> -->
                 </div>
             </div>
         </div>
@@ -41,10 +38,7 @@
                 </a>
                 <div class="card-body align-items-center justify-content-center">
                     <h5 class="card-title text-center">Desa Gandusari</h5>
-                    <p class="card-text text-center">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                    <!-- <div class="text-center"> 
-                        {{-- <a href="#" class="btn btn-primary">Baca selengkapnya</a> --}}
-                    </div> -->
+                    <p class="card-text text-center">Some quick example text to build on the card title and make up the bulk of the card's content.</p> 
                 </div>
             </div>
 
@@ -57,9 +51,6 @@
                 <div class="card-body align-items-center justify-content-center">
                     <h5 class="card-title text-center">Desa Kalegen</h5>
                     <p class="card-text text-center">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                    <!-- <div class="text-center"> 
-                        {{-- <a href="#" class="btn btn-primary">Baca selengkapnya</a> --}}
-                    </div> -->
                 </div>
             </div>
         </div>
@@ -71,9 +62,6 @@
                 <div class="card-body align-items-center justify-content-center">
                     <h5 class="card-title text-center">Desa Ngepanrejo</h5>
                     <p class="card-text text-center">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                    <!-- <div class="text-center"> 
-                        {{-- <a href="#" class="btn btn-primary">Baca selengkapnya</a> --}}
-                    </div> -->
                 </div>
             </div>
         </div>
@@ -85,9 +73,6 @@
                 <div class="card-body align-items-center justify-content-center">
                     <h5 class="card-title text-center">Desa Rejosari</h5>
                     <p class="card-text text-center">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                    <!-- <div class="text-center"> 
-                        {{-- <a href="#" class="btn btn-primary">Baca selengkapnya</a> --}}
-                    </div> -->
                 </div>
             </div>
         </div>
@@ -99,9 +84,6 @@
                 <div class="card-body align-items-center justify-content-center">
                     <h5 class="card-title text-center">Desa Sidorejo</h5>
                     <p class="card-text text-center">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                    <!-- <div class="text-center"> 
-                        {{-- <a href="#" class="btn btn-primary">Baca selengkapnya</a> --}}
-                    </div> -->
                 </div>
             </div>
         </div>
@@ -113,18 +95,22 @@
                 <div class="card-body align-items-center justify-content-center">
                     <h5 class="card-title text-center">Desa Trasan</h5>
                     <p class="card-text text-center">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                    <!-- <div class="text-center"> 
-                        {{-- <a href="#" class="btn btn-primary">Baca selengkapnya</a> --}}
-                    </div> -->
                 </div>
             </div>
         </div>
+    </div> -->
+    <div class="container">
+  <div class="row">
+    <div class="col-12 embed-responsive embed-responsive-16by9" style="height: 25rem;">
+      <iframe class="h-100 w-100 embed-responsive-item" src="https://www.google.com/maps/d/u/0/embed?mid=1nlxV8ZRaihqy1f9ckuHRBbmkPNNIHOg&ehbc=2E312F"></iframe>
     </div>
+  </div>
+</div>
 </div>
 
 <!-- Pariwisata Unggulan -->
-<section id="desa" class="container-header">
-    <div class="container mt-5">
+<section id="desa" class="my-5">
+    <div class="container">
         <h3 class="text-center mb-4">Pariwisata Unggulan</h3>
         <div class="row justify-content-left">
             <div class="col-md-4 mb-4">
