@@ -42,3 +42,10 @@ Route::get('/desa/desa-ngepanrejo', function () {return view('desa/desa_ngepanre
 Route::get('/desa/desa-rejosari', function () {return view('desa/desa_rejosari');});
 Route::get('/desa/desa-sidorejo', function () {return view('desa/desa_sidorejo');});
 Route::get('/desa/desa-trasan', function () {return view('desa/desa_trasan');});
+
+// ============================== Route Admin ============================== //
+Route::get('/admin/login', function () {return view('admin.login.login');});
+Route::get('/admin/dashboard', function () {return view('admin.dashboard');});
+Route::get('/admin/account', function () {return view('admin.account.index');});
+Route::get('/admin/account/create', function () {return view('admin.account.create');});
+Route::get('/admin/berita', function () {return view('admin.beranda.berita.index');});
