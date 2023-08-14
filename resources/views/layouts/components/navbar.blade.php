@@ -1,5 +1,5 @@
 <nav class="navbar navbar-expand-xl navbar-dark bg-dark fixed-top">
-    <div class="container">
+    <div class="container-fluid">
       <a class="navbar-brand d-flex align-item-center" href="#">
         <img src="{{ asset('img/logo/logo.png') }}" alt="Logo" width="60" height="60" class="d-inline-block align-text-top" style="border-radius: 1rem 0 1rem 0" />
         <!-- <h6 class="my-auto mx-2">Umpak Sumbing</h6> -->

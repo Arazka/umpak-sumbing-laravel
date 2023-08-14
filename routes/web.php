@@ -49,3 +49,9 @@ Route::get('/admin/dashboard', function () {return view('admin.dashboard');});
 Route::get('/admin/account', function () {return view('admin.account.index');});
 Route::get('/admin/account/create', function () {return view('admin.account.create');});
 Route::get('/admin/berita', function () {return view('admin.beranda.berita.index');});
+
+
+use Laravel\Fortify\Http\Controllers\RegisteredUserController;
+
+Route::get('/register', [RegisteredUserController::class, 'create'])->name('register');
+Route::post('/register', [RegisteredUserController::class, 'store']);

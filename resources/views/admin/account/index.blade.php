@@ -16,7 +16,7 @@
     <!-- DataTales Example -->
     <div class="card shadow mb-4">
       <div class="card-header py-3">
-        <a class="btn btn-primary" href="{{ url('admin/account/create') }}">Tambah data</a>
+        <a class="btn btn-primary" href="{{ url('admin/account/create') }}">Tambah User</a>
       </div>
       <div class="card-body">
         <div class="table-responsive">
