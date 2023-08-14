@@ -11,7 +11,7 @@
             <img src="{{ asset('img\foto desa\desa bandongan.jpg') }}" class="d-block w-100" alt="..." />
             <div class="carousel-caption d-none d-md-block">
               <h5 class="fs-1">Desa Bandongan</h5>
-              <p>Some representative placeholder content for the first slide.</p>
+              <p>Some representative placeholder content for the first slide..</p>
             </div>
           </a>
           <div class="carousel-item">
