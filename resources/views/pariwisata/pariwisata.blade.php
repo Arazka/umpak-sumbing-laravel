@@ -100,12 +100,12 @@
         </div>
     </div> -->
     <div class="container">
-  <div class="row">
-    <div class="col-12 embed-responsive embed-responsive-16by9" style="height: 27rem;">
-      <iframe class="h-100 w-100 embed-responsive-item" src="https://www.google.com/maps/d/u/0/embed?mid=1nlxV8ZRaihqy1f9ckuHRBbmkPNNIHOg&ehbc=2E312F"></iframe>
+        <div class="row">
+            <div class="col-12 embed-responsive embed-responsive-16by9" style="height: 30rem;">
+                <iframe class="h-100 w-100 embed-responsive-item" src="https://www.google.com/maps/d/embed?mid=1k0BgfgwGdesWIRhnf0FAD7Vq2RoHMIE&ehbc=2E312F"></iframe>
+            </div>
+        </div>
     </div>
-  </div>
-</div>
 </div>
 
 <!-- Pariwisata Unggulan -->
