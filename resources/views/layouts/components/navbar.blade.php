@@ -28,6 +28,10 @@
             <li class="nav-item">
               <a class="nav-link fs-6" href="{{ url('/produk-unggulan') }}">Produk Unggulan</a>
             </li>
+            <li class="nav-item">
+              <a class="nav-link fs-6" href="{{ route('dashboard.index') }}">Dashboard (In development)</a>
+            </li>
+          
             <!-- {{-- <li class="nav-item">
               <a class="nav-link fs-6" href="halaman/bkad.html">BKAD</a>
             </li>

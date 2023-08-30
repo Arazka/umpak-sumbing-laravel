@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use \App\Http\Controllers\Admin\UserController;
 
 /*
 |--------------------------------------------------------------------------
@@ -46,8 +47,10 @@ Route::get('/desa/desa-trasan', function () {return view('desa/desa_trasan');});
 // ============================== Route Admin ============================== //
 Route::get('/admin/login', function () {return view('admin.login.login');});
 Route::get('/admin/dashboard', function () {return view('admin.dashboard');});
-Route::get('/admin/account', function () {return view('admin.account.index');});
-Route::get('/admin/account/create', function () {return view('admin.account.create');});
+
+Route::get('/admin/users', function () {return view('admin.users.index');});
+
+Route::get('/admin/users/create', function () {return view('admin.users.create');});
 Route::get('/admin/berita', function () {return view('admin.beranda.berita.index');});
 
 
@@ -68,3 +71,9 @@ Route::middleware(['auth'])->group(function () {
     Route::get('/dashboard', [DashboardController::class, 'index'])->name('dashboard.index');
 });
 
+Route::resource('admin/users', UserController::class);
+
+// Admin Routes
+Route::prefix('admin')->name('admin.')->group(function() {
+    Route::resource('/users', UserController::class);
+});

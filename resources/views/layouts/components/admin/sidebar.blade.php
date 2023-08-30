@@ -19,7 +19,7 @@
     </li>
 
     <li class="nav-item">
-      <a class="nav-link" href="{{  url('/admin/account') }}">
+      <a class="nav-link" href="{{  url('/admin/users') }}">
         <i class="bi bi-person-fill"></i>
         <span>Account</span></a
       >
